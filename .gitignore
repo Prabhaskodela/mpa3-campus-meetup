@@ -1,2 +1,2 @@
 .env
-event.log
+*.log
